@@ -13,14 +13,14 @@ georgia | Melbourne | stats
 allen | toronto | chemistry
 sarah | auckland | chemistry
 
-To get started, add the following lines of code to the top of your Python script:
+To bring this data into your Python program, add the following lines of code:
 ```python
 import pandas
 data = pandas.read_csv("https://raw.githubusercontent.com/kasun-maldeni/intro-to-python/master/data.csv")
 print(data)
 ```
 
-## Questions
+## Answer the following questions:
 1. Print out the first row of data in a string in the following format: "Todd studies Physics in Melbourne".
 2. Do question 1 for EVERY row of data i.e. for each student.
 3. Print out the names of all the students studying in toronto.
