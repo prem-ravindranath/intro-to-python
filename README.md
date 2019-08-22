@@ -1,16 +1,16 @@
 # Intro to Python
 
 You have the following data:
-| Name          | Location      | Subjects |
-| ------------- |:-------------:| --------:|
-| todd | melbourne | physics |
-| jamie | toronto | physics |
-| rebecca | Los Angeles | maths |
-| michael | Sydney | biology |
-| vincent | toronto | chemistry |
-| georgia | Melbourne | stats |
-| allen | toronto | chemistry |
-| sarah | auckland | chemistry |
+Name | Location | Subjects
+--- | --- | ---
+todd | melbourne | physics
+jamie | toronto | physics
+rebecca | Los Angeles | maths
+michael | Sydney | biology
+vincent | toronto | chemistry
+georgia | Melbourne | stats
+allen | toronto | chemistry
+sarah | auckland | chemistry
 
 To get started, add the following lines of code to the top of your Python script:
 ```python
