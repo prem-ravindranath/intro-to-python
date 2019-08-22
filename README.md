@@ -1,8 +1,8 @@
 # Intro to Python
 
 You have the following data:
-| Name | Location | Subjects |
-| ------------- |:-------------:| -----:|
+| Name          | Location      | Subjects |
+| ------------- |:-------------:| --------:|
 | todd | melbourne | physics |
 | jamie | toronto | physics |
 | rebecca | Los Angeles | maths |
