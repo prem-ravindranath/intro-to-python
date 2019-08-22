@@ -1,6 +1,5 @@
 # Intro to Python
 
-You have the following data:
 Name | Location | Subjects
 --- | --- | ---
 todd | melbourne | physics
